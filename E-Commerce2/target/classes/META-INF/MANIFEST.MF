@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Kishor
+Build-Jdk: 17.0.10
+Implementation-Title: E-Commerce-1
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ec
+Implementation-URL: https://spring.io/projects/spring-boot/E-Commerce-1
+Created-By: Maven Integration for Eclipse
+
